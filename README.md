@@ -32,5 +32,5 @@ Stencil
 感覚的にif文での分岐と一緒かなって思います。サンプルシーンでは、レンズ->オブジェクト->ターゲットという順番でオブジェクトを配置していますが、描画対象物のShaderでステンシルバッファの値を変えたら、(0のときと同じ色で描画？)それっぽくもしかしたらなるかも？って思ったので良かったらやってみると良いかもです。水玉にはなら無さそうですけど…。
 
 ## 参考文献
-[【Unityシェーダ入門】ステンシルバッファを使って隠れた部分を描く](http://nn-hokuson.hatenablog.com/entry/2017/05/02/185320)
-[ShaderLab: ステンシル](https://docs.unity3d.com/ja/current/Manual/SL-Stencil.html)
+- [【Unityシェーダ入門】ステンシルバッファを使って隠れた部分を描く](http://nn-hokuson.hatenablog.com/entry/2017/05/02/185320)  
+- [ShaderLab: ステンシル](https://docs.unity3d.com/ja/current/Manual/SL-Stencil.html)
